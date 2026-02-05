@@ -1,8 +1,6 @@
 
 👋 Operations & Client Engagement | Building Automation, Data & AI-Driven Solutions | GitHub Portfolio
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building business-focused analytics and workflow automation projects  
 - 🌱 I’m currently learning Python, SQL, and applied AI for operational use cases  
 - 👯 I’m looking to collaborate on automation, data analytics, and AI projects that solve real business problems  
