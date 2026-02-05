@@ -1,7 +1,6 @@
 
 👋 Operations & Client Engagement professional transitioning into automation, data, and AI-driven solutions.
 
-    <!--
 **SalinBajra/SalinBajra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
