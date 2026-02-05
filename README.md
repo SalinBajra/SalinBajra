@@ -1,3 +1,10 @@
+
+# 📊 Sales Operations Analytics Dashboard (Looker Studio)
+
+This is a business analytics dashboard created in Google Looker Studio to replace manual reporting, improve visibility into key sales and recruitment metrics, and support data-driven decisions.
+
+Built by: *Salin — Operations & Client Engagement professional building automation, data, and AI-driven solutions for real business problems*
+
 # Sales Operations Analytics Dashboard (Looker Studio)
 
 ## Overview
