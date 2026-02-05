@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: salinmanbajracharya@gmail.com | LinkedIn: https://www.linkedin.com/in/salin-man-bajracharya-b1286b363  
 - ⚡ Fun fact: I enjoy turning messy operational workflows into clean, scalable systems  
 
--->
