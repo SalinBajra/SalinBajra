@@ -1,5 +1,5 @@
 
-👋 Operations & Client Engagement professional transitioning into automation, data, and AI-driven solutions.
+👋 Operations & Client Engagement | Building Automation, Data & AI-Driven Solutions | GitHub Portfolio
 
 Here are some ideas to get you started:
 
